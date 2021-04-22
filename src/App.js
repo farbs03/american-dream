@@ -315,7 +315,7 @@ function App() {
                   </Container>
                 </Grid>
               </Grid>
-              <div style={{padding: "0px 10px", textAlign: "right"}}>
+              <div style={{padding: "0px 10px", textAlign: "right", marginLeft: "auto", width: "60%"}}>
                 <Container style={{margin: "10px 0px", fontSize:"18px"}}>
                   <Typography variant="body">The truth is, for every success story in this country, there are often hundreds, or even thousands of people who were used to get to that point of success (refer to Amazon for an easy example). There are many who are subjected to do harsh work as a consequence of their socioeconomic conditions, and that work is used to primarily benefit the rich people in control. I have only recently noticed this, and realized just how lucky I have been despite a lot of my personal struggles. It really puts things in perspective, and one of my main motives in life now is to uplift those around me who don't have the same opportunities that I do.</Typography>
                 </Container>
